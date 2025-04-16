@@ -1,1 +1,1 @@
-My firt HTML exercise with shecodes
+My first HTML elements exercise with shecodes
